@@ -1,0 +1,12 @@
+package thexnator.cheesemod.item;
+
+import net.minecraft.item.ItemArmor;
+import net.minecraft.item.ItemArmor.ArmorMaterial;
+
+public class ItemCheeseArmour extends ItemArmor {
+
+	public ItemCheeseHelmet(ArmorMaterial armourMaterial, int renderIndex, int armourType) {
+		super(armourMaterial, renderIndex, armourType);
+	}
+
+}

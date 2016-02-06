@@ -1,0 +1,6 @@
+package thexnator.cheesemod;
+
+@Mod(modid = "cm")
+public class CheeseMod {
+
+}

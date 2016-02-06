@@ -1,0 +1,12 @@
+package thexnator.cheesemod;
+
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+
+public class BlockNetherCheeseOre extends Block{
+
+	protected BlockNetherCheeseOre(Material material) {
+		super(material);
+	}
+
+}

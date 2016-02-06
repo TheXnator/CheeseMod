@@ -1,0 +1,29 @@
+package thexnator.cheesemod;
+
+import java.util.Random;
+
+import cpw.mods.fml.common.IWorldGenerator;
+import net.minecraft.world.World;
+import net.minecraft.world.chunk.IChunkProvider;
+
+public class CheeseGeneration implements IWorldGenerator{
+
+	@Override
+	public void generate(Random random, int chunkX, int chunkZ, World world, IChunkProvider chunkGenerator,
+			IChunkProvider chunkProvider) {
+		switch(world.provider.dimensionId)
+	}
+
+	public void generateNether(){
+		
+	}
+	
+	public void generateOverworld(){
+		
+	}
+	
+	public void generatoeEnd(){
+		
+	}
+	
+}

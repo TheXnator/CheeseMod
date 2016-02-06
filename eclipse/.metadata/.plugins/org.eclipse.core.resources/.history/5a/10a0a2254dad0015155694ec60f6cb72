@@ -1,0 +1,7 @@
+package thexnator.cheesemod.item;
+
+import net.minecraft.item.ItemHoe;
+
+public class ItemCheeseHoe extends ItemHoe {
+
+}
