@@ -1,7 +1,0 @@
-package thexnator.cheesemod;
-
-import net.minecraft.block.Block;
-
-public class BlockCheeseOre extends Block {
-
-}

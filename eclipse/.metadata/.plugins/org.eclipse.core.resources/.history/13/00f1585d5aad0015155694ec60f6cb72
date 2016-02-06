@@ -1,5 +1,0 @@
-package thexnator.cheesemod;
-
-public class BlockNetherCheeseOre extends Block{
-
-}
